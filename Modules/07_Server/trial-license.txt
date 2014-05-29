@@ -1,0 +1,10 @@
+Product : OrigoDB Server
+Edition : Trial
+Version : 0.2
+IssuedTo : workshop@devrexlabs.com
+Issued : 5/29/2014 3:23:36 AM
+Expires : 12/31/9999 11:59:59 PM
+Hosts : *
+MaxMemoryAllocatedMb : 0
+Key : 0d76f0f6-1e6f-4082-9806-4db91c6291f0
+Signature : 27BC423E21C23AB8F847D212AD1B370E4EA7277C0C42AF995A65DACE46D81EDB167B6A7F77D9C40F
